@@ -1,0 +1,3 @@
+require_relative 'payload_manipulator_service'
+
+run PayloadManipulatorService
